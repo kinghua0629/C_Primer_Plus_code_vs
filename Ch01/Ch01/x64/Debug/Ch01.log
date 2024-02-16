@@ -1,0 +1,2 @@
+﻿  listing1.c
+D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch01\listing1.c(7,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
