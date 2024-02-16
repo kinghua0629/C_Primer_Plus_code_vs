@@ -1,0 +1,14 @@
+﻿  badcount.c
+D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\badcount\badcount.c(10,23): warning C4474: printf: 格式字符串中传递的参数太多
+  D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\badcount\badcount.c(10,23):
+  占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  
+D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\badcount\badcount.c(11,12): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\badcount\badcount.c(11,12):
+  占位符和其参数预计 3 可变参数，但提供的却是 1 参数
+  D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\badcount\badcount.c(11,12):
+  缺失的可变参数 2 为格式字符串“%d”所需
+  
+D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\badcount\badcount.c(12,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“double”
+D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\badcount\badcount.c(12,12): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 2 拥有了类型“double”
+  badcount.vcxproj -> D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\x64\Debug\badcount.exe

@@ -1,0 +1,10 @@
+﻿  charcode.c
+D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\charcode\charcode.c(8,13): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+  D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\charcode\charcode.c(8,13):
+  占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+  D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\charcode\charcode.c(8,13):
+  缺失的可变参数 2 为格式字符串“%c”所需
+  D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\charcode\charcode.c(8,13):
+  此参数用作缓冲区大小
+  
+  charcode.vcxproj -> D:\编程\C Primer Plus\配套资源\配套资源\C Primer Plus第6版中文版代码\Ch03\x64\Debug\charcode.exe
