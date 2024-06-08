@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u7F16\u7A0B\\C Primer Plus\\\u914D\u5957\u8D44\u6E90\\\u914D\u5957\u8D44\u6E90\\C Primer Plus\u7B2C6\u7248\u4E2D\u6587\u7248\u4EE3\u7801\\Ch03\\",
+  "WorkspaceRootPath": "E:\\\u7F16\u7A0B\\C_Primer_Plus_code_vs\\Ch03\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1242DE25-7FA9-48FD-9A5C-0BCF8D10A641}|escape\\escape.vcxproj|D:\\\u7F16\u7A0B\\C Primer Plus\\\u914D\u5957\u8D44\u6E90\\\u914D\u5957\u8D44\u6E90\\C Primer Plus\u7B2C6\u7248\u4E2D\u6587\u7248\u4EE3\u7801\\Ch03\\escape\\escape.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{638BE2EF-FA94-4D08-B3DE-43D1212A46B9}|bases\\bases.vcxproj|E:\\\u7F16\u7A0B\\C_Primer_Plus_code_vs\\Ch03\\bases\\bases.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{638BE2EF-FA94-4D08-B3DE-43D1212A46B9}|bases\\bases.vcxproj|solutionrelative:bases\\bases.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1242DE25-7FA9-48FD-9A5C-0BCF8D10A641}|escape\\escape.vcxproj|E:\\\u7F16\u7A0B\\C_Primer_Plus_code_vs\\Ch03\\escape\\escape.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1242DE25-7FA9-48FD-9A5C-0BCF8D10A641}|escape\\escape.vcxproj|solutionrelative:escape\\escape.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,10 +23,23 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "bases.c",
+              "DocumentMoniker": "E:\\\u7F16\u7A0B\\C_Primer_Plus_code_vs\\Ch03\\bases\\bases.c",
+              "RelativeDocumentMoniker": "bases\\bases.c",
+              "ToolTip": "E:\\\u7F16\u7A0B\\C_Primer_Plus_code_vs\\Ch03\\bases\\bases.c",
+              "RelativeToolTip": "bases\\bases.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-05-18T02:46:47.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "escape.c",
-              "DocumentMoniker": "D:\\\u7F16\u7A0B\\C Primer Plus\\\u914D\u5957\u8D44\u6E90\\\u914D\u5957\u8D44\u6E90\\C Primer Plus\u7B2C6\u7248\u4E2D\u6587\u7248\u4EE3\u7801\\Ch03\\escape\\escape.c",
+              "DocumentMoniker": "E:\\\u7F16\u7A0B\\C_Primer_Plus_code_vs\\Ch03\\escape\\escape.c",
               "RelativeDocumentMoniker": "escape\\escape.c",
-              "ToolTip": "D:\\\u7F16\u7A0B\\C Primer Plus\\\u914D\u5957\u8D44\u6E90\\\u914D\u5957\u8D44\u6E90\\C Primer Plus\u7B2C6\u7248\u4E2D\u6587\u7248\u4EE3\u7801\\Ch03\\escape\\escape.c",
+              "ToolTip": "E:\\\u7F16\u7A0B\\C_Primer_Plus_code_vs\\Ch03\\escape\\escape.c",
               "RelativeToolTip": "escape\\escape.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
